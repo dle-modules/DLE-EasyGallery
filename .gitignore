@@ -1,0 +1,10 @@
+# Исключаем всё
+/*
+# Кроме самого .gitignore (и как следствие всего, что в нём написано)
+!.gitignore
+# Кроме папок и файлов модуля
+!/engine/modules/egal/
+!/engine/ajax/egal/
+!/engine/inc/egal.php
+!/engine/skins/images/egal.png
+!/CHANGELOG.md
