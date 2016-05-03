@@ -232,7 +232,7 @@ $action = $_REQUEST['action'];
 
 
 		?>
-		<script>var galElementData = '<?php echo $galElementData; ?>'</script>
+		<script>var galElementData = <?php echo $galElementData; ?></script>
 
 		<?php if ($action == 'done'): ?>
 			<div class="box">
