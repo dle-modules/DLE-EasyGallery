@@ -381,7 +381,7 @@ $action = $_REQUEST['action'];
 										Получить список картинок
 										<span class="help-button" data-rel="popover" data-trigger="hover"
 										      data-placement="right"
-										      data-content="Обновлять список картинок имеет смысл, если изенился путь или минимальные размеры картинок">?</span>
+										      data-content="Обновлять список картинок имеет смысл, если изменился путь или минимальные размеры картинок">?</span>
 									</label>
 									<div class="col-md-9">
 										<span class="btn btn-sm btn-green btn-get-data">
@@ -396,7 +396,7 @@ $action = $_REQUEST['action'];
 										Cписок картинок
 										<span class="help-button" data-rel="popover" data-trigger="hover"
 										      data-placement="right"
-										      data-content="Обновлять список картинок имеет смысл, если изенился путь или минимальные размеры картинок">?</span>
+										      data-content="Обновлять список картинок имеет смысл, если изменился путь или минимальные размеры картинок">?</span>
 									</label>
 									<div class="col-md-9">
 										<span class="btn btn-sm btn-green btn-get-data">
